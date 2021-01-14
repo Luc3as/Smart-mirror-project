@@ -63,6 +63,7 @@ WiFi connectivity was one of last issues I had to solve with this project. You w
 ## MagicMirror config
 
 The configuration of MagicMirror is pretty standard I think, you can find all the [basics on the web](https://magicmirror.builders/).
+Because some of you asked for config, here is [my config for MagicMirror](MagicMirror-config.js).
 
 ![UI](Images/6.jpg) 
 
